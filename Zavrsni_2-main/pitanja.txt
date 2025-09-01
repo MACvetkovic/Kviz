@@ -1,0 +1,600 @@
+﻿1
+Koji je glavni grad Francuske?
+Berlin
+Madrid
+Pariz
+C
+2
+Koji je najveci kontinent na svijetu?
+Afrika
+Azija
+Europa
+B
+3
+Koja je kemijska formula za vodu?
+H2O
+CO2
+O2
+A
+4
+Koja je najbrza zivotinja na svijetu?
+Gepard
+Orao
+Strsljen
+A
+5
+Koja drzava ima najvise stanovnika na svijetu?
+Kina
+Indija
+Sjedinjene Americke Drzave
+A
+6
+Tko je napisao roman "1984"?
+George Orwell
+J.K. Rowling
+Mark Twain
+A
+7
+Koja je najduza rijeka na svijetu?
+Nil
+Amazon
+Mississippi
+A
+8
+U kojem je gradu smjesten Colosseum?
+Atena
+Rim
+Pariz
+B
+9
+Koji je osnovni princip rada termalne energije?
+Koristenje vjetra
+Koristenje toplinske energije
+Koristenje sunceve energije
+B
+10
+Koji je naziv najvece planete u Sunčevom sustavu?
+Saturn
+Jupiter
+Mars
+B
+11
+Koja boja nastaje mijesanjem plave i zute?
+Zelena
+Ljubicasta
+Crvena
+A
+12
+Koji je najvisi vrh na svijetu?
+Mount Everest
+K2
+Mont Blanc
+A
+13
+Koji se instrument koristi za mjerenje temperature?
+Barometar
+Termometar
+Higrometar
+B
+14
+Tko je naslikao Mona Lisu?
+Michelangelo
+Leonardo da Vinci
+Pablo Picasso
+B
+15
+Koliko kontinenata postoji na Zemlji?
+5
+6
+7
+C
+16
+Koja drzava je poznata po fjordovima?
+Svedska
+Norveska
+Finska
+B
+17
+Koji je glavni grad Australije?
+Sydney
+Melbourne
+Canberra
+C
+18
+Koji je kemijski simbol za zlato?
+Ag
+Au
+Zl
+B
+19
+Koje je more najzasoljenije?
+Jadransko
+Crveno
+Mrtvo more
+C
+20
+Koji je poznati znanstvenik formulirao teoriju relativnosti?
+Isaac Newton
+Nikola Tesla
+Albert Einstein
+C
+21
+Koja je osnovna jedinica za duljinu u SI sustavu?
+Milimetar
+Centimetar
+Metar
+C
+22
+Koji planet nazivamo Crvenim planetom?
+Zemlja
+Mars
+Venera
+B
+23
+Koji kontinent ima najvise drzava?
+Afrika
+Europa
+Azija
+A
+24
+Koliko zuba ima odrasla osoba?
+28
+30
+32
+C
+25
+Koji je glavni grad Kanade?
+Toronto
+Vancouver
+Ottawa
+C
+26
+Koja je rijeka najduza u Europi?
+Dunav
+Volga
+Rajna
+B
+27
+Koji sport koristi loptu i mrezu i igra se s obje strane mreze?
+Kosarka
+Odbojka
+Rukomet
+B
+28
+Koji je planet najblizi Suncu?
+Zemlja
+Venera
+Merkur
+C
+29
+Koji je znanstvenik otkrio zakon gravitacije?
+Einstein
+Newton
+Galilei
+B
+30
+Koji je glavni grad Egipta?
+Kairo
+Aleksandrija
+Luksor
+A
+31
+Tko je skladatelj "Ode radosti"?
+Bach
+Mozart
+Beethoven
+C
+32
+Koliko nogu ima pauk?
+6
+8
+10
+B
+33
+Koji je simbol za kisik?
+O
+Ox
+K
+A
+34
+Koje godine je otkriven Amerika?
+1492
+1500
+1600
+A
+35
+Tko je bio prvi covjek na Mjesecu?
+Neil Armstrong
+Buzz Aldrin
+Yuri Gagarin
+A
+36
+Koja drzava ima oblik cizme?
+Grcka
+Italija
+Spanjolska
+B
+37
+Koji je kemijski simbol za vodik?
+H
+V
+W
+A
+38
+Koji je glavni grad Brazila?
+Rio de Janeiro
+Sao Paulo
+Brasilia
+C
+39
+Koliko strana ima kvadrat?
+3
+4
+5
+B
+40
+Koje je najvece zivo bice na svijetu?
+Plavi kit
+Slon
+Zirafa
+A
+41
+Koji kontinent se proteze i na sjevernu i na juznu polutku?
+Antarktika
+Afrika
+Australija
+B
+42
+Koji metal je tekući na sobnoj temperaturi?
+Zeljezo
+Ziva
+Bakar
+B
+43
+Koja planeta ima prstenove?
+Mars
+Jupiter
+Saturn
+C
+44
+Koji je glavni grad Kine?
+Peking
+Shanghai
+Hong Kong
+A
+45
+Koje se razdoblje naziva "mračnim dobom"?
+Srednji vijek
+Renaissance
+Antika
+A
+46
+Koji kontinent se nalazi u cijelosti na južnoj polutki?
+Australija
+Afrika
+Južna Amerika
+A
+47
+Koji jezik se govori u Brazilu?
+Spanjolski
+Portugalski
+Francuski
+B
+48
+Koji je znanstveni naziv za krvne stanice koje prenose kisik?
+Bijele krvne stanice
+Trombociti
+Eritrociti
+C
+49
+Koja je najveca pustinja na svijetu?
+Sahara
+Gobi
+Antarktika
+C
+50
+Koji se instrument koristi za mjerenje tlaka zraka?
+Barometar
+Termometar
+Anemometar
+A
+51
+Koji je najpoznatiji zid na svijetu?
+Kineski zid
+Berlinski zid
+Hadrijanov zid
+A
+52
+Koja je rijeka najduza u Africi?
+Kongo
+Nil
+Zambezi
+B
+53
+Koji je glavni grad Njemacke?
+Berlin
+Munchen
+Frankfurt
+A
+54
+Koji je simbol za zeljezo?
+Ir
+Fe
+Zn
+B
+55
+Tko je napisao "Hamleta"?
+Dante
+Shakespeare
+Moliere
+B
+56
+Koja planeta je poznata po svojoj crvenoj boji?
+Saturn
+Mars
+Merkur
+B
+57
+Koji sport koristi palicu i lopticu?
+Golf
+Kosarka
+Rukomet
+A
+58
+Koji je glavni grad Japana?
+Peking
+Seul
+Tokio
+C
+59
+Koji se sport igra na travnatom terenu s reketom?
+Hokej
+Tenis
+Nogomet
+B
+60
+Tko je izumio telefon?
+Tesla
+Bell
+Edison
+B
+61
+Koji element ima simbol C?
+Ugljik
+Kalcij
+Klor
+A
+62
+Koliko ima planeta u Suncevom sustavu?
+7
+8
+9
+B
+63
+Koji je glavni grad Rusije?
+Kijev
+Minsk
+Moskva
+C
+64
+Koji jezik se govori u Argentini?
+Engleski
+Spanjolski
+Portugalski
+B
+65
+Koji je osnovni izvor svjetlosti na Zemlji?
+Zvijezde
+Mjesec
+Sunce
+C
+66
+Koji je simbol za srebro?
+Ag
+Si
+Sr
+A
+67
+Koja je najveca ptica na svijetu?
+Strus
+Orao
+Sova
+A
+68
+Koliko kosti ima ljudsko tijelo?
+206
+210
+220
+A
+69
+Koji je najvisi slap na svijetu?
+Niagara
+Angelov slap
+Viktorijini slapovi
+B
+70
+Koji kontinent ima najvise stanovnika?
+Europa
+Azija
+Afrika
+B
+71
+Tko je bio prvi predsjednik SAD-a?
+Lincoln
+Washington
+Jefferson
+B
+72
+Koji jezik se govori u Egiptu?
+Arapski
+Engleski
+Francuski
+A
+73
+Koji je glavni grad Grcke?
+Solun
+Atena
+Kreta
+B
+74
+Koji je simbol za natrij?
+Na
+Ni
+Ns
+A
+75
+Koje je najdublje jezero na svijetu?
+Bajkalsko
+Tanganjika
+Viktorijino
+A
+76
+Koja je temperatura ledišta vode?
+0°C
+-10°C
+100°C
+A
+77
+Koja se znanost bavi proučavanjem zvijezda?
+Biologija
+Astronomija
+Geologija
+B
+78
+Koliko je minuta u jednom satu?
+60
+100
+120
+A
+79
+Koji je glavni grad SAD-a?
+New York
+Washington D.C.
+Los Angeles
+B
+80
+Koji se kontinent nalazi južno od Europe?
+Afrika
+Azija
+Australija
+A
+81
+Koji je najpoznatiji vulkan u Italiji?
+Vezuv
+Etna
+Stromboli
+A
+82
+Koji metal koristimo za izradu limenki?
+Bakar
+Aluminij
+Zeljezo
+B
+83
+Koji je najveci ocean?
+Atlantski
+Tihi
+Indijski
+B
+84
+Koji je najpoznatiji detektiv iz knjiga?
+Sherlock Holmes
+Hercule Poirot
+James Bond
+A
+85
+Koji planet ima najkracu godinu?
+Merkur
+Venera
+Zemlja
+A
+86
+Koliko srca ima hobotnica?
+2
+3
+4
+B
+87
+Koji sport koristi kolut i obruč?
+Gimnastika
+Vaterpolo
+Košarka
+A
+88
+Koji je glavni grad Švedske?
+Oslo
+Kopenhagen
+Stockholm
+C
+89
+Tko je autor teorije evolucije?
+Newton
+Darwin
+Pasteur
+B
+90
+Koji kontinent nema stalnih stanovnika?
+Australija
+Antarktika
+Afrika
+B
+91
+Koji je simbol za kalcij?
+K
+Ca
+Cl
+B
+92
+Tko je skladao "Malu noćnu muziku"?
+Mozart
+Bach
+Haydn
+A
+93
+Koji je poznati engleski pisac napisao "Olivera Twista"?
+Dickens
+Twain
+Conan Doyle
+A
+94
+Koja je najviša planina u Europi?
+Mont Blanc
+Elbrus
+Matterhorn
+B
+95
+Koji je planet poznat po velikoj crvenoj pjegi?
+Jupiter
+Saturn
+Uran
+A
+96
+Koja je najveca zivotinja koja je ikada zivjela?
+Plavi kit
+Tiranosaurus
+Slon
+A
+97
+Koji je najpoznatiji kip u SAD-u?
+Kip slobode
+Lincolnov kip
+Rushmore
+A
+98
+Koji je kontinent poznat po safariju?
+Afrika
+Azija
+Južna Amerika
+A
+99
+Koja zivotinja nosi mladunce u torbi?
+Slon
+Klokan
+Medvjed
+B
+100
+Koji je glavni grad Meksika?
+Guadalajara
+Mexico City
+Tijuana
+B

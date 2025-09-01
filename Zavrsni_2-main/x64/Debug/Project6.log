@@ -1,0 +1,5 @@
+﻿  Header.c
+C:\Users\Kekic\OneDrive\Radna površina\Zavrsni_2-main\Header.c(38,10): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\Kekic\OneDrive\Radna površina\Zavrsni_2-main\Header.c(70,8): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\Kekic\OneDrive\Radna površina\Zavrsni_2-main\Header.c(227,10): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+  Project6.vcxproj -> C:\Users\Kekic\OneDrive\Radna površina\Zavrsni_2-main\x64\Debug\Project6.exe
